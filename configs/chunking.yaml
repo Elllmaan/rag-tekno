@@ -1,0 +1,4 @@
+unit: qa_pair
+max_tokens: 220
+overlap: 0
+micro_chunks: ["formulas", "limits", "dates"]

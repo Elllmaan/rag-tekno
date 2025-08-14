@@ -1,0 +1,9 @@
+llm:
+  provider: huggingface_endpoint
+  id: openai/gpt-oss-20b
+  max_tokens: 512
+embeddings:
+  id: intfloat/multilingual-e5-base
+  normalize: true
+reranker:
+  id: BAAI/bge-reranker-v2-m3

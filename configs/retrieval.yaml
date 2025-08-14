@@ -1,0 +1,4 @@
+bm25_top_k: 30
+dense_top_k: 30
+rerank_top_k: 10
+min_agreeing_chunks: 2
