@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# jupyter
+.ipynb_checkpoints/
+*.egg-info/
+
+# data & indexes (rebuildable or large)
+data/index/
+data/processed/**/*.parquet
+data/processed/**/*.duckdb
+
+# OS
+.DS_Store
