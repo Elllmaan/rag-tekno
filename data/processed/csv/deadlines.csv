@@ -1,0 +1,5 @@
+competition,qa_id,label,date_raw,date_iso,page_start
+HSS,HSS-Q005,timeline,1 Mart 2025,2025-03-01,1
+HSS,HSS-Q006,general,17 Mart 2025,2025-03-17,1
+HSS,HSS-Q008,general,19 Mayıs 2025,2025-05-19,2
+HSS,HSS-Q009,general,15 Ağustos 2025,2025-08-15,2
