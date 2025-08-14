@@ -1,4 +1,5 @@
-=== PAGE 1 (HSS) ===
+# PAGE 1 | HSS
+
 Hava Savunma S)stemler) Yarışması 
 1. Hava Savunma S+stemler+ Yarışması'nın temel amacı ned+r? 
 Yarışmanın amacı, takımların ver+len senaryolara uygun görevler+ başarıyla yer+ne get+recek 
@@ -28,7 +29,10 @@ yapılmaktadır.
  
 7. Ön Tasarım Raporu sonuçları ne zaman açıklanacaktır?
 
-=== PAGE 2 (HSS) ===
+---
+
+# PAGE 2 | HSS
+
 Ön Tasarım Raporu sonuçları 10 N+san 2025 tar+h+nde açıklanacaktır. Bu sonuçlar, Kr+t+k 
 Tasarım Raporu aşamasına geçecek takımları bel+rleyecekt+r. 
  
@@ -58,7 +62,10 @@ Kr+t+k Tasarım Raporu; kapak, +ç+ndek+ler, görseller (tekn+k res+m) ve refera
 üzere en fazla 30 sayfa olmalıdır. Bu sayfa sınırını aşan raporlar değerlend+rme dışı 
 bırakılacaktır[.
 
-=== PAGE 3 (HSS) ===
+---
+
+# PAGE 3 | HSS
+
 14. Takımlar rapor değerlend+rme sonuçlarına nasıl +t+raz edeb+l+r? 
 Rapor sonuçları açıklandıktan sonrak+ 48 saat +ç+nde, takım danışmanı veya kaptanı 
 tarafından KYS s+stem+ üzer+nden +t+razda bulunulab+l+r. İt+razlar, farklı b+r hakem heyet+ 
@@ -89,7 +96,10 @@ veya elektr+ksel bağlantı bulunmamalıdır[.
  
 20. Takımların hedef +mhası +ç+n patlayıcı kullanmalarına +z+n ver+l+yor mu?
 
-=== PAGE 4 (HSS) ===
+---
+
+# PAGE 4 | HSS
+
 Hayır, takımların hedef +mha çözümü olarak patlayıcı kullanmaları kes+nl+kle yasaktır. 
  
 21. Ön Tasarım Raporu'nun toplam puanlamadak+ ağırlığı ned+r? 
@@ -120,7 +130,10 @@ hedef+ araması, tesp+t etmes+ ve +mha etmes+ gerekmekted+r.
 1. Aşamada küçük b+r hedef+ +mha etmek 15 puan kazandırırken, büyük b+r hedef+ +mha 
 etmek 5 puan değer+nded+r.
 
-=== PAGE 5 (HSS) ===
+---
+
+# PAGE 5 | HSS
+
  
 27. 1. Aşamayı geçmek +ç+n gereken m+n+mum puan ned+r? 
 Takımların b+r üst sev+yeye geçeb+lmes+ +ç+n 1. Aşamada en az 20 puan toplaması 
@@ -151,7 +164,10 @@ puanlar dah+ld+r[c+te: 345].
 B+r+nc+ olan takıma toplam 250.000 TL para ödülü ver+lecek ve bu m+ktar takım üyeler+ 
 arasında eş+t olarak bölünecekt+r. Takımın danışmanı +se ayrıca 15.000 TL ödül alacaktır.
 
-=== PAGE 6 (HSS) ===
+---
+
+# PAGE 6 | HSS
+
  
 34. Ödül sıralamasına g+reb+lmek +ç+n m+n+mum başarı kr+ter+ ned+r? 
 Ödül sıralamasına g+reb+lmek +ç+n takımların 3. Aşamadan en az 10 puan almaları 
@@ -182,7 +198,10 @@ tak+p etmek bu k+ş+n+n sorumluluğundadır.
  
 40. Yarışma alanında takımlara ne g+b+ destekler sağlanmaktadır?
 
-=== PAGE 7 (HSS) ===
+---
+
+# PAGE 7 | HSS
+
 Yarışma alanında, katılan her yarışmacı takıma kullanması +ç+n b+rer masanın bulunduğu 
 ayrı b+r alan tahs+s ed+l+r. Bu alanda ayrıca 220 VAC enerj+ tedar+k ed+lecekt+r. 
 41. B+r takım yarışma aşamaları sırasında kaç kez bakım molası alab+l+r? 
@@ -213,7 +232,10 @@ cevaplandırılmaz[c+te: 112, 113].
  
 46. Takımların uygulaması gereken "atışa yasak alan" fonks+yonunun +şlev+ ned+r?
 
-=== PAGE 8 (HSS) ===
+---
+
+# PAGE 8 | HSS
+
 Takımlar, s+stemler+nde b+r "atışa yasak alan" tanımlayab+ld+kler+n+ göstermel+d+r[c+te: 218]. 
 Kab+l+yet v+deosu +ç+n bu alan yan eksende -15 +le +15 derece arası olarak tanımlanır ve 
 s+stem+n bu aralık dışında ateş edeb+ld+ğ+, ancak ateş etme komutu ver+lse b+le bu aralık 
@@ -241,12 +263,14 @@ Eğer b+r test, test ortamından kaynaklanan b+r sorun neden+yle aksarsa, test+n
 sonlandırılmasına ya da baştan başlatılmasına +lg+l+ yarışmacı takımın l+der+ karar 
 verecekt+r. 
 Hava Savunma Sistemleri (HSS) yarışmasının görev aşamaları, takımlardan beklenen 
-otonomi seviyelerini kademeli olarak nasıl artırmaktadır? Her bir aşamadaki insan-
-makine etkileşiminin değişimini açıklayınız. 
+otonomi seviyelerini kademeli olarak nasıl artırmaktadır? Her bir aşamadaki insanmakine etkileşiminin değişimini açıklayınız. 
 HSS yarışması, takımların otonomi yeteneklerini aşamalı olarak test etmek üzere 
 tasarlanmıştır1.
 
-=== PAGE 9 (HSS) ===
+---
+
+# PAGE 9 | HSS
+
 Aşama-1'de (Hareketli Hedef İmhası), yarı otonom bir yapı beklenir; hedef takibi kullanıcı 
 komutuyla başlar ve sistem tarafından otomatik olarak devam eder, ancak kritik "ateş 
 etme" emri tamamen kullanıcı kontrolündedir2. Bu, temel hedef takip ve nişan alma 
@@ -282,7 +306,10 @@ Hava Savunma Sistemleri Yarışması Aşama 2'deki ceza puanı sistemi (dost hed
 vurma), takımları nasıl bir stratejik ikilemde bırakmaktadır? Bu kural, sistemin 
 hassasiyeti ve karar verme algoritması üzerinde ne gibi bir baskı oluşturur?
 
-=== PAGE 10 (HSS) ===
+---
+
+# PAGE 10 | HSS
+
 Aşama 2'deki ceza puanı sistemi, takımları "agresif hedef imhası" ile "mutlak hedef 
 doğruluğu" arasında hassas bir denge kurmaya zorlayan stratejik bir ikilem yaratır. 
 Şartnameye göre, bir adet dost hedeﬁ vurmak -30 puanlık ciddi bir cezaya neden olurken 
@@ -318,7 +345,10 @@ otonom olarak yerine getirebilecek olgun bir sisteme sahip olduklarını da kan�
 Bu da, ﬁnalistlerin belirlenmesi sırasında benzer kabiliyetteki takımlar arasında bir adım 
 öne çıkmalarını sağlayacaktır.
 
-=== PAGE 11 (HSS) ===
+---
+
+# PAGE 11 | HSS
+
 Hava Savunma Sistemleri Yarışması'nın 3. Aşamasında yer alan "Angajman İstek 
 Tahtası" ve hedef çeşitliliği (renk ve şekil), yarışmanın zorluk seviyesini ve ölçtüğü 
 yetenekleri nasıl artırmaktadır? 
@@ -356,7 +386,10 @@ Hava Savunma Sistemleri Yarışması Aşama 1 ve Aşama 2'de büyük ve küçük
 için farklı puanlar verilmesinin ardındaki mantık nedir? Bu puanlama, takımların nişan 
 alma algoritmalarının hassasiyetini nasıl ölçer?
 
-=== PAGE 12 (HSS) ===
+---
+
+# PAGE 12 | HSS
+
 Aşama 1 ve Aşama 2'de, küçük hedeﬂerin imhasının büyük hedeﬂere göre çok daha yüksek 
 puanla ödüllendirilmesi, takımların nişan alma sistemlerinin hassasiyetini ve isabetliliğini 
 ölçmek için bilinçli olarak tasarlanmış bir mekanizmadır. Örneğin, Aşama 1'de büyük hedef 
@@ -393,7 +426,10 @@ Hava Savunma Sistemleri Yarışması'nın ödül sıralamasına girebilmek için
 Aşamadan en az 10 Puan alma" kriteri getirilmesinin amacı nedir? Bu kural, takımları 
 hangi yetkinlikleri sergilemeye zorlamaktadır?
 
-=== PAGE 13 (HSS) ===
+---
+
+# PAGE 13 | HSS
+
 Ödül sıralamasına girebilmek için "3. Aşamadan en az 10 Puan alma" zorunluluğu70, 
 yarışmanın en üst düzey yetkinliklerini sergileyemeyen takımların ödüllendirilmesini 
 engellemek amacıyla konulmuş bir başarı ﬁltresidir. Yarışmanın ilk iki aşaması temel ve 
@@ -428,7 +464,10 @@ TEKNOFEST'in sadece bir teknoloji yarışması değil, aynı zamanda milli tekno
 ruhunu benimsemiş, birlikte çalışma kültürünü özümsemiş ve ilham veren gençlerin 
 yetiştiği bir ekosistem olma vizyonunu destekler.
 
-=== PAGE 14 (HSS) ===
+---
+
+# PAGE 14 | HSS
+
 "İtiraz Süreci" nasıl işlemektedir ve takımlara ne gibi bir hak tanımaktadır? Bu sürecin 
 adil bir değerlendirme ortamı sağlamadaki rolünü açıklayınız. 
 Her iki yarışmada da rapor değerlendirme sonuçlarına yönelik bir "İtiraz Süreci" bulunması, 
@@ -465,7 +504,10 @@ anlamlı kılar.
 Her iki yarışmada da KYS (Kurumsal Yönetim Sistemi), yarışma sürecinin merkezi sinir 
 sistemi olarak konumlandırılmıştır. Sistemin rolü, başvuruların alınmasından rapor/sunum
 
-=== PAGE 15 (E-TICARET) ===
+---
+
+# PAGE 15 | E-TICARET
+
 teslimlerine, itiraz süreçlerinden üye ekleme/çıkarma işlemlerine ve resmi duyurulara kadar 
 tüm organizasyonel faaliyetleri tek bir platform üzerinden yönetmektir. Bir takımın KYS'yi 
 etkin bir şekilde kullanmaması, ciddi riskler barındırır. Şartnameler, süreç takibinin 
@@ -499,7 +541,10 @@ oluşturması beklenir. Dolayısıyla bu yasak, yarışmanın temel amacına hiz
 kopyala-yapıştır çözümler yerine gerçek mühendislik ve yaratıcılık becerilerini 
 ödüllendirmeyi hedeﬂer.
 
-=== PAGE 16 (E-TICARET) ===
+---
+
+# PAGE 16 | E-TICARET
+
 E-Ticaret Hackathonu'nda "Finalist Takımların Açıklanması" (29 Ağustos) ile "Fiziksel 
 Hackathon" (13 Eylül) arasında yaklaşık 15 günlük bir süre bırakılmasının stratejik 
 önemi nedir? Bu süre takımlara ne gibi avantajlar sağlar? 
@@ -534,7 +579,10 @@ edildiğini teyit edebilir. Ayrıca, tüm ﬁnalistlerin çözümlerinin belirli
 sabitlenmesi ve erişilebilir olması, sürecin şewaﬂığını artırır ve tüm takımların aynı kurallar 
 çerçevesinde değerlendirildiğine dair güveni pekiştirir.
 
-=== PAGE 17 (E-TICARET) ===
+---
+
+# PAGE 17 | E-TICARET
+
 E-Ticaret Hackathonu'nda ﬁnale kalan takımlara sağlanan "ulaşım ve konaklama 
 desteği" neden sınırlıdır ve bu durum takım oluşturma sürecinde nelere dikkat 
 edilmesini gerektirir? 
@@ -570,7 +618,10 @@ omuzlarında mı olduğunu anlayabilir. Bu, her üyenin projeye aktif olarak kat
 bulunmasını teşvik eder ve sadece iyi bir "sunucuya" sahip olmanın başarı için yeterli 
 olmadığı, tüm takımın projeyi sahiplenmesi gerektiği mesajını verir.
 
-=== PAGE 18 (E-TICARET) ===
+---
+
+# PAGE 18 | E-TICARET
+
 E-Ticaret Hackathonu'nda lise takımları için danışman zorunluluğu getirilmesinin 
 ardındaki pedagojik ve idari gerekçeler neler olabilir? Danışmanın rolü, üniversite 
 takımlarına kıyasla lise takımları için neden daha kritik olarak görülmektedir? 
@@ -606,7 +657,10 @@ anlayabilmek için Doğal Dil İşleme (NLP) teknolojilerine yönelmesi gerekir.
 Word2Vec, BERT gibi embedding modelleri kullanarak hem sorguların hem de ürün 
 açıklamalarının anlamsal vektörlerini oluşturup bu vektörler arasındaki benzerliği bularak
 
-=== PAGE 19 (ADRES) ===
+---
+
+# PAGE 19 | ADRES
+
 sıralama yapmaları beklenir. Ayrıca, bu aşama "Önyüz Tasarlama" görevini de içerdiği için26, 
 takımların  
 React, Vue gibi frontend teknolojileri ile kullanıcı dostu bir arayüz geliştirme becerilerini de 
@@ -638,7 +692,10 @@ Takım oluşturma kuralları nelerdir?
 Yarışmaya başvurular takım halinde yapılmaktadır ve bireysel katılım kabul 
 edilmemektedir. Takımlar en az 2, en fazla 4 kişiden oluşmalıdır. Bu sayıya danışman dahil
 
-=== PAGE 20 (ADRES) ===
+---
+
+# PAGE 20 | ADRES
+
 değildir. Her takımın en fazla bir danışmanı olabilir ve danışman, takım üyesi olarak değil, 
 danışman olarak eklenmelidir. Her takımda bir takım kaptanı bulunması zorunludur. 
 Başvurular ne zamana kadar ve nereden yapılabilir?  
@@ -672,7 +729,10 @@ Hangi teknolojik yaklaşımlar kullanılabilir?
 Katılımcıların hem geleneksel yöntemleri hem de derin öğrenme tabanlı yaklaşımları 
 kullanmaları beklenmektedir. Özellikle doğal dil işleme (NLP) teknikleri, adres
 
-=== PAGE 21 (ADRES) ===
+---
+
+# PAGE 21 | ADRES
+
 metinlerinden anlamlı temsiller çıkarmak ve benzer adresleri sınıﬂandırmak için 
 kullanılacaktır. Bu kapsamda Transformer tabanlı modeller, RNN/LSTM tabanlı veya CNN 
 tabanlı mimariler karşılaştırmalı olarak değerlendirilebilir. 
@@ -706,7 +766,10 @@ Kimler danışman olabilir?
 Danışman olarak eğitim/öğretim kurumlarında görev yapan öğretmenler/akademisyenler 
 veya ilgili alanda kariyerine devam eden mühendis/uzman kişiler takımda yer alabilir.
 
-=== PAGE 22 (ADRES) ===
+---
+
+# PAGE 22 | ADRES
+
 Danışmanın görevi, öğrencilere akademik, sosyal ve kültürel konularda yol göstermek ve 
 projenin ihtiyaç duyduğu teknik desteği sağlamaktır. 
 Danışmanların yükümlülükleri nelerdir? 
@@ -717,8 +780,7 @@ takımın yanında bulunacağını taahhüt eder.
 Yarışma takvimindeki önemli tarihler nelerdir?  
 Yarışma için son başvuru tarihi 6 Ağustos 2025 23:59'dur. Online Kaggle aşaması 9-23 
 Ağustos 2025 tarihleri arasında gerçekleşecek, ﬁnalist takımların açıklanması ise 25 
-Ağustos 2025'te olacaktır. Fiziksel Hackathon 6-7 Eylül 2025 tarihlerinde, ödül töreni ise 17-
-21 Eylül 2025 tarihlerinde TEKNOFEST İstanbul'da yapılacaktır. 
+Ağustos 2025'te olacaktır. Fiziksel Hackathon 6-7 Eylül 2025 tarihlerinde, ödül töreni ise 1721 Eylül 2025 tarihlerinde TEKNOFEST İstanbul'da yapılacaktır. 
 Başvurular sırasında takım tanıtım dosyası teslim etmek zorunlu mudur?  
 Evet, takım tanıtım dosyasının (takım adına tek bir dosya yeterlidir) www.t3kys.com 
 başvuru sistemi üzerinden elektronik formatta teslim edilmesi gerekmektedir. Başvurunun 
@@ -740,7 +802,10 @@ Katılımcılardan, ham adres verisi üzerinde bütünsel bir adres eşleştirme
 kalitesindeki düzensizlikleri ortadan kaldırarak standart bir yapıya dönüştürülmesi 
 hedeﬂenmektedir. Ayrıca, adres bileşenlerini ayıran (mahalle, sokak gibi), eksik bilgileri
 
-=== PAGE 23 (ADRES) ===
+---
+
+# PAGE 23 | ADRES
+
 tamamlayan ve aynı adrese ait tekrar kayıtları tekilleştiren bir sistem tasarlanması 
 beklenmektedir. 
 Yarışmanın paydaşları kimlerdir?  
@@ -774,7 +839,10 @@ Yarışmaya katılan takımlardan geliştirilen çözümlerle ilgili ne istenmek
 Geliştirilen çözümlerde, servis edilen model ve yaklaşımların kaynak koduna ve ağırlıklarına 
 erişilebilir olması gerekmektedir. Ayrıca, bütüncül bir pipeline, API veya prototip bir yazılım
 
-=== PAGE 24 (ADRES) ===
+---
+
+# PAGE 24 | ADRES
+
 modülü halinde sunum yapılması tercih edilmektedir. Çözümün açıklanabilir kılan çıktılar 
 (örneğin, yapılan düzeltmeleri gösteren bir kayıt sistemi) üretmesi de beklenmektedir. 
 Bir takım, Kaggle aşamasında %95'lik bir doğruluk skoru elde ederek lider tablosunda 
@@ -811,7 +879,10 @@ yaklaşım, şartnamenin "bütüncül bir çözüm" beklentisini karşılar mı?
 Hayır, karşılamaz. Şartname, sadece coğraﬁ bilgi (GIS) kullanımını değil, aynı zamanda 
 metinsel verilerin işlenmesini de içeren "bütünsel bir adres eşleştirme/çözümleme"
 
-=== PAGE 25 (ADRES) ===
+---
+
+# PAGE 25 | ADRES
+
 çözümü beklemektedir. Özellikle "yazım hataları, noktalama farklılıkları, Türkçe 
 kısaltmalar" gibi sorunlara karşı akıllı algoritmalar geliştirilmesi "önemli bir beklenti" olarak 
 vurgulanmıştır. Ayrıca, adres bileşenlerine ayırma (parsing) ve metin ön işleme süreçlerinin 
@@ -848,11 +919,13 @@ beklentilerin ve son dakika güncellemelerinin paylaşıldığı platformlardır
 organizasyon komitesi, ﬁnal hackathon'u için beklentilerini netleştirebilir, değerlendirme 
 kriterlerindeki önemli noktaları vurgulayabilir veya yarışmacıların sorularını yanıtlayabilir.
 
-=== PAGE 26 (ADRES) ===
+---
+
+# PAGE 26 | ADRES
+
 Bu toplantıya katılmamak, takımın ﬁnal etabında kritik bir bilgiden veya ipucundan mahrum 
 kalmasına neden olabilir. 
-Bir takımın danışmanı, projenin en karmaşık algoritmasını bizzat kodluyor. Sunumun soru-
-cevap kısmında jüri, bu algoritmanın detaylarını sorduğunda hiçbir takım üyesi tatmin edici 
+Bir takımın danışmanı, projenin en karmaşık algoritmasını bizzat kodluyor. Sunumun sorucevap kısmında jüri, bu algoritmanın detaylarını sorduğunda hiçbir takım üyesi tatmin edici 
 bir açıklama yapamıyor. Bu durumun en olası sonucu nedir? 
 Bu durumun en olası sonucu, takımın "İş Birliği ve Ekip Dinamiği" ve potansiyel olarak 
 "Yenilikçilik ve Yöntemsel Özgünlük" kriterlerinden çok düşük puan almasıdır. Danışmanın 
@@ -883,7 +956,10 @@ Bu kişi, 2023'te mezun olduğu için "1 yıllık yeni mezun" kuralını karşı
 2025 yılında aktif olarak bir doktora programına kayıtlı olduğu için "öğrenci" statüsündedir 
 ve bu nedenle ilk maddeye dayanarak yarışmaya katılmaya hak kazanır.
 
-=== PAGE 27 (ADRES) ===
+---
+
+# PAGE 27 | ADRES
+
 Bir takım, daha önce başka bir yarışmaya katıldığı projesini bu yarışma için geliştirerek 
 sunmak istiyor. Şartnameye göre bunu yapmaları mümkün müdür? Eğer mümkünse, hangi 
 şartı yerine getirmeleri zorunludur? 
@@ -919,7 +995,10 @@ Yarışmanın Ön Değerlendirme Aşaması'nda takımların Kaggle'daki sıralam
 %50'sini oluşturacaktır. Ancak şartnamede aynı zamanda ekiplerden "kısa teknik bir 
 raporla" modelin mimarisini ve ön işleme sürecini açıklamaları da istenmektedir. Kaggle'da
 
-=== PAGE 28 (ADRES) ===
+---
+
+# PAGE 28 | ADRES
+
 çok yüksek skor yapan ama teknik raporu son derece yetersiz olan bir takımın ﬁnale kalma 
 garantisi var mıdır? 
 Hayır, garantisi yoktur. Şartname bu konuda çift aşamalı bir kontrol mekanizması 
@@ -956,3 +1035,4 @@ değerlendirerek katılımına izin vermemesi beklenir. En güvenli ve etik yakl
 durumdaki bir öğrencinin yarışmaya katılmamasıdır. Bu, yarışmacının sadece yazılı kuralı 
 değil, arkasındaki amacı da yorumlama becerisini ölçer.
 
+---

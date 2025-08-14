@@ -1,4 +1,7 @@
-competition,qa_id,points_mentions,formulas,page_start
-HSS,HSS-Q022,40 puan; 0 puan,,4
-HSS,HSS-Q050,"60 puan; 100 puan; 140 puan; 0 puan; 5 puan; 20 puan; 10 Puan; 10 Puan; 10 
-puan","BSP); BSP), Hava Savunma Sistemleri yarışmasının her üç görev aşamasında",8
+qa_id,competition,topic,numbers,formulas,page_start,page_end
+ADRES-QG026,ADRES,scoring,[],[],23,23
+ADRES-QG032,ADRES,eligibility,[],"['İkinci olan iki kişilik takım: 2 üye x 10.000 TL = 20.000 TL toplam hediye çeki alır.', 'Üçüncü olan dört kişilik takım: 4 üye x 10.000 TL = 40.000 TL toplam hediye çeki alır.']",24,24
+ADRES-Q002,ADRES,eligibility,['%50'],"['İki kişilik takımda kişi başı: 120.000 TL / 2 = 60.000 TL düşer.', 'Dört kişilik takımda kişi başı: 120.000 TL / 4 = 30.000 TL düşer. Bu soru, ödül dağıtım']",26,28
+ADRES-QG041,ADRES,eligibility,['%50'],"['İki kişilik takımda kişi başı: 120.000 TL / 2 = 60.000 TL düşer.', 'Dört kişilik takımda kişi başı: 120.000 TL / 4 = 30.000 TL düşer. Bu soru, ödül dağıtım']",27,28
+HSS-Q022,HSS,scoring,"['40 puan', '0 puan']",[],4,4
+HSS-Q003,HSS,eligibility,"['60 puan', '100 puan', '140 puan', '0 puan', '5 puan', '20 puan', '10 Puan', '10 \npuan', '48']","['Hava Savunma Sistemleri Yarışması\'nda yer alan ""Bonus Süre Puanı"" (BSP)', '""Bonus Süre Puanı"" (BSP), Hava Savunma Sistemleri yarışmasının her üç görev aşamasında', '20 x (Kalan Süre (Saniye) / Toplam Süre) formülüyle hesaplanır121212121212121212. Bu sistemin']",9,14

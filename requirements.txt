@@ -1,0 +1,23 @@
+# core
+langchain==0.2.17
+langchain-community==0.2.17
+huggingface_hub>=0.24,<0.35
+pydantic>=2.6,<3
+openai>=1.35  # only if you later use OpenAI-compatible endpoints
+httpx>=0.27
+python-dotenv>=1.0
+
+# retrieval
+faiss-cpu==1.8.0         # Apple Silicon wheel uses Accelerate
+numpy<2.0                # if FAISS complains, pin to 1.26.* (see note below)
+duckdb>=1.0.0
+rank-bm25>=0.2.2
+
+# embeddings & reranker
+sentence-transformers>=2.6.1
+torch>=2.2,<3.0          # MPS support on Mac; see PyTorch install notes below
+FlagEmbedding>=1.2.11    # for BAAI/bge-reranker-v2-m3
+
+# pdf & text cleaning
+pymupdf>=1.24
+ftfy>=6.2.0

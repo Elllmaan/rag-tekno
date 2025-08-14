@@ -1,328 +1,324 @@
-# HSS
-
-## HSS-Q001: Hava Savunma S+stemler+ Yarışması'nın temel amacı ned+r?
+## HSS-Q001: Hava Savunma S+stemler+ Yarışması'nın temel amacı ned+r
 Yarışmanın amacı, takımların ver+len senaryolara uygun görevler+ başarıyla yer+ne get+recek 
 hava savunma s+stemler+ gel+şt+rmes+ ve üretmes+d+r. Aynı zamanda, hava savunma 
 s+stemler+n+n önem+n+n ülke çapında gen+ş b+r tabana yayılarak özgün, yerl+ ve yetenekl+ 
 s+stemler+n gel+şt+r+lmes+n+ sağlamak da hedeﬂenmekted+r.
-[page: 1–1] [topic: eligibility]
----
 
-## HSS-Q002: Yarışmaya k+mler katılab+l+r?
+[page: 1-1] [topic: eligibility]
+---
+## HSS-Q002: Yarışmaya k+mler katılab+l+r
 Yarışmaya, Türk+ye'de veya yurt dışında öğren+m gören yükseköğret+m (ön l+sans, l+sans ve 
 yüksek l+sans) öğrenc+ler+ takım hal+nde başvuru yapab+lmekted+r.
-[page: 1–1] [topic: team]
----
 
-## HSS-Q003: Takım oluşturma kuralları nelerd+r?
+[page: 1-1] [topic: team]
+---
+## HSS-Q003: Takım oluşturma kuralları nelerd+r
 Takımların en az 3, en fazla 15 k+ş+den oluşması zorunludur ve bu sayıya danışman dah+l 
 değ+ld+r. Takımlar, tek b+r okulun öğrenc+ler+nden oluşab+leceğ+ g+b+, farklı yükseköğret+m 
 kurumlarından öğrenc+ler+n b+r araya gelmes+yle karma olarak da oluşturulab+l+r.
-[page: 1–1] [topic: team]
----
 
-## HSS-Q004: Takımların danışmanı olab+l+r m+?
+[page: 1-1] [topic: team]
+---
+## HSS-Q004: Takımların danışmanı olab+l+r m+
 Evet, takımlar b+r öğret+m görevl+s+n+/üyes+n+ veya b+r araştırma görevl+s+n+ danışman olarak 
 alab+l+rler.
-[page: 1–1] [topic: team]
----
 
-## HSS-Q005: Yarışma +ç+n son başvuru tar+h+ ned+r?
+[page: 1-1] [topic: team]
+---
+## HSS-Q005: Yarışma +ç+n son başvuru tar+h+ ned+r
 Yarışma +ç+n son başvuru tar+h+ 1 Mart 2025't+r[c+te: 95]. Başvurular 
 [www.t3kys.com](https://www.t3kys.com) başvuru s+stem+ üzer+nden çevr+m+ç+ olarak 
 yapılmaktadır.
-[page: 1–1] [topic: timeline]
----
 
-## HSS-Q006: Ön Tasarım Raporu (ÖTR) +ç+n son tesl+m tar+h+ ne zamandır?
+[page: 1-1] [topic: timeline]
+---
+## HSS-Q006: Ön Tasarım Raporu (ÖTR) +ç+n son tesl+m tar+h+ ne zamandır
 Ön Tasarım Raporu +ç+n son tesl+m tar+h+ 17 Mart 2025, saat 17:00'd+r.
-[page: 1–1] [topic: other]
----
 
-## HSS-Q007: Ön Tasarım Raporu sonuçları ne zaman açıklanacaktır?
+[page: 1-1] [topic: other]
+---
+## HSS-Q007: Ön Tasarım Raporu sonuçları ne zaman açıklanacaktır
 Ön Tasarım Raporu sonuçları 10 N+san 2025 tar+h+nde açıklanacaktır. Bu sonuçlar, Kr+t+k 
 Tasarım Raporu aşamasına geçecek takımları bel+rleyecekt+r.
-[page: 1–2] [topic: team]
----
 
-## HSS-Q008: Kr+t+k Tasarım Raporu (KTR) +ç+n son tesl+m tar+h+ ned+r?
+[page: 1-2] [topic: team]
+---
+## HSS-Q008: Kr+t+k Tasarım Raporu (KTR) +ç+n son tesl+m tar+h+ ned+r
 ÖTR aşamasını geçen takımlar, Kr+t+k Tasarım Raporlarını en geç 19 Mayıs 2025, saat 
 17:00'ye kadar tesl+m etmekle yükümlüdür.
-[page: 2–2] [topic: team]
----
 
-## HSS-Q009: F+nale kalan takımlar ne zaman +lan ed+lecekt+r?
+[page: 2-2] [topic: team]
+---
+## HSS-Q009: F+nale kalan takımlar ne zaman +lan ed+lecekt+r
 F+nale kalan (f+nal+st) takımlar, S+stem Kab+l+yet+ V+deolarının değerlend+r+lmes+n+n ardından 
 15 Ağustos 2025 tar+h+nde açıklanacaktır.
-[page: 2–2] [topic: team]
----
 
-## HSS-Q010: Yarışma f+naller+ ne zaman ve nerede yapılacaktır?
+[page: 2-2] [topic: team]
+---
+## HSS-Q010: Yarışma f+naller+ ne zaman ve nerede yapılacaktır
 Yarışma f+naller+ Ağustos-Eylül 2025 tar+hler+nde, TEKNOFEST İSTANBUL kapsamında 
 gerçekleşt+r+lecekt+r.
-[page: 2–2] [topic: other]
----
 
-## HSS-Q011: Takımlar yarışmayla +lg+l+ tekn+k sorularını nasıl sormalıdır?
+[page: 2-2] [topic: other]
+---
+## HSS-Q011: Takımlar yarışmayla +lg+l+ tekn+k sorularını nasıl sormalıdır
 Yarışma hakkındak+ tekn+k sorular ve yanıtları, www.teknofest.org adres+ndek+ Hava 
 Savunma S+stemler+ grubunda yer alacaktır. Her takımdan en az b+r k+ş+n+n bu grubu akt+f 
 olarak tak+p etmes+ takımın sorumluluğundadır.
-[page: 2–2] [topic: team]
----
 
-## HSS-Q012: Ön Tasarım Raporu +ç+n sayfa sınırı ned+r?
+[page: 2-2] [topic: team]
+---
+## HSS-Q012: Ön Tasarım Raporu +ç+n sayfa sınırı ned+r
 Ön Tasarım Raporu; kapak, +ç+ndek+ler, görseller ve referanslar dah+l olmak üzere en fazla 6 
 sayfa olmalıdır. Sayfa sınırına uymayan raporlar değerlend+rmeye alınmayacaktır.
-[page: 2–2] [topic: other]
----
 
-## HSS-Q013: Kr+t+k Tasarım Raporu +ç+n sayfa sınırı ned+r?
+[page: 2-2] [topic: other]
+---
+## HSS-Q013: Kr+t+k Tasarım Raporu +ç+n sayfa sınırı ned+r
 Kr+t+k Tasarım Raporu; kapak, +ç+ndek+ler, görseller (tekn+k res+m) ve referanslar dah+l olmak 
 üzere en fazla 30 sayfa olmalıdır. Bu sayfa sınırını aşan raporlar değerlend+rme dışı 
 bırakılacaktır[.
-[page: 2–2] [topic: other]
----
 
-## HSS-Q014: Takımlar rapor değerlend+rme sonuçlarına nasıl +t+raz edeb+l+r?
+[page: 2-2] [topic: other]
+---
+## HSS-Q014: Takımlar rapor değerlend+rme sonuçlarına nasıl +t+raz edeb+l+r
 Rapor sonuçları açıklandıktan sonrak+ 48 saat +ç+nde, takım danışmanı veya kaptanı 
 tarafından KYS s+stem+ üzer+nden +t+razda bulunulab+l+r. İt+razlar, farklı b+r hakem heyet+ 
-tarafından yen+den değerlend+r+l+r. 
- 
-15. Görev Kab+l+yet Göster+m+ V+deosu'nda göster+lmes+ gereken zorunlu yeteneklerden b+r+ 
+tarafından yen+den değerlend+r+l+r.
+
+[page: 2-3] [topic: team]
+---
+## HSS-Q015: Görev Kab+l+yet Göster+m+ V+deosu'nda göster+lmes+ gereken zorunlu yeteneklerden b+r+
 ned+r? 
 Zorunlu yeteneklerden b+r+, s+stem ateş ederken Ac+l Durdurma butonuna basıldığında 
 s+stem+n ateş+ kest+ğ+n+n gözlemlenmes+d+r. Ayrıca s+stem+n yan eksende 270 derece ve 
 yüksel+ş eksen+nde 60 derece hareket kab+l+yet+ne sah+p olduğu da göster+lmel+d+r.
-[page: 2–3] [topic: team]
----
 
-## HSS-Q016: Görev Kab+l+yet Göster+m+ V+deosu +ç+n çözünürlük ve süre gereks+n+mler+ nelerd+r?
+[page: 3-3] [topic: stages]
+---
+## HSS-Q016: Görev Kab+l+yet Göster+m+ V+deosu +ç+n çözünürlük ve süre gereks+n+mler+ nelerd+r
 V+deonun çözünürlüğü en az 720p olmalı, toplam süres+ +se en az 2 dak+ka, en fazla 5 
 dak+ka olmalıdır. V+deo, tek b+r dosya olarak Youtube'a yüklenmel+ ve başka platformlara 
 yüklenen v+deolar kabul ed+lmeyecekt+r.
-[page: 3–3] [topic: stages]
----
 
-## HSS-Q017: Yarışacak b+r Hava Savunma S+stem+ +ç+n +z+n ver+len maks+mum boyut ned+r?
+[page: 3-3] [topic: stages]
+---
+## HSS-Q017: Yarışacak b+r Hava Savunma S+stem+ +ç+n +z+n ver+len maks+mum boyut ned+r
 Yarışma ortamında yer alacak Hava Savunma S+stem+'n+n her b+r boyutu (En x Boy x Der+nl+k) 
 100 cm'den küçük olmalıdır. S+stem+n dış kablajı bu boyutlara dah+l değ+ld+r.
-[page: 3–3] [topic: other]
----
 
-## HSS-Q018: Yarışmada hedef +mha menz+l+ ne kadardır?
+[page: 3-3] [topic: logistics]
+---
+## HSS-Q018: Yarışmada hedef +mha menz+l+ ne kadardır
 Yarışmacı takımların en fazla 10 metre uzaklıktak+ b+r hedef+ +mha etmeler+ beklenmekted+r.
-[page: 3–3] [topic: team]
----
 
-## HSS-Q019: S+stem+n yapısıyla +lg+l+ kr+t+k b+r güvenl+k şartı ned+r?
+[page: 3-3] [topic: team]
+---
+## HSS-Q019: S+stem+n yapısıyla +lg+l+ kr+t+k b+r güvenl+k şartı ned+r
 S+stem+n ana gövdes+ üzer+nde kesk+n noktalar bulunmamalı ve bu noktalar 
 yuvarlatılmalıdır. Ayrıca, tüm kabloların elektr+k yalıtımı tam ve uygun olmalı, açıkta kablo 
 veya elektr+ksel bağlantı bulunmamalıdır[.
-[page: 3–3] [topic: eligibility]
----
 
-## HSS-Q020: Takımların hedef +mhası +ç+n patlayıcı kullanmalarına +z+n ver+l+yor mu?
+[page: 3-3] [topic: eligibility]
+---
+## HSS-Q020: Takımların hedef +mhası +ç+n patlayıcı kullanmalarına +z+n ver+l+yor mu
 Hayır, takımların hedef +mha çözümü olarak patlayıcı kullanmaları kes+nl+kle yasaktır.
-[page: 3–4] [topic: team]
----
 
-## HSS-Q021: Ön Tasarım Raporu'nun toplam puanlamadak+ ağırlığı ned+r?
+[page: 3-4] [topic: team]
+---
+## HSS-Q001: Aşamada küçük b+r hedef+ +mha etmek 15 puan kazandırırken, büyük b+r hedef+ +mha
+etmek 5 puan değer+nded+r.
+
+[page: 4-4] [topic: stages]
+---
+## HSS-Q021: Ön Tasarım Raporu'nun toplam puanlamadak+ ağırlığı ned+r
 Ön Tasarım Raporu, toplam puanlamada 10 puanlık b+r ağırlığa sah+pt+r. Raporlar ve sunum 
 puanlaması toplam 100 puan olup, bunun 50 puanı Kr+t+k Tasarım Raporu'na, 40 puanı +se 
 F+nal Değerlend+rme Sunumu'na a+tt+r.
-[page: 4–4] [topic: stages]
----
 
-## HSS-Q022: S+stem+n boyutu nasıl puanlandırılmaktadır?
+[page: 4-4] [topic: stages]
+---
+## HSS-Q022: S+stem+n boyutu nasıl puanlandırılmaktadır
 En uzun boyutu 60 cm veya daha küçük olan s+stemler 40 puan alırken (Boyut ≤ 60 cm), en 
 uzun boyutu 60 cm +le 100 cm arasında olan s+stemler bu kategor+den 0 puan alacaktır.
-[page: 4–4] [topic: scoring]
----
 
-## HSS-Q023: Yarışmanın 1. Aşamasının temel amacı ned+r?
+[page: 4-4] [topic: scoring]
+---
+## HSS-Q023: Yarışmanın 1. Aşamasının temel amacı ned+r
 Aşama 1 olan "Hareketl+ Hedef İmhası"nda takımların, s+stemler+n+n yatay ve d+key 
 eksenlerde hareket eden b+r hedef+ tesp+t etme, hassas b+r şek+lde tak+p etme, n+şan alma 
 ve +mha etme yetenekler+n+ göstermeler+ beklenmekted+r.
-[page: 4–4] [topic: team]
----
 
-## HSS-Q024: 2. Aşamada temel görev ned+r?
+[page: 4-4] [topic: team]
+---
+## HSS-Q024: 2. Aşamada temel görev ned+r
 "Hareketl+ Dost/Düşman Hedef Ayrımı ve İmhası" olan 2. Aşamada temel görev, takımların 
 tasarladıkları renk algılama s+stemler+n+ kullanarak hedeﬂer+ dost-düşman olarak 
 tanımlamasıdır. S+stem, düşman hedeﬂer+ +mha ederken dost hedeﬂere zarar vermemel+d+r.
-[page: 4–4] [topic: team]
----
 
-## HSS-Q025: 3. Aşamada yarışmacıları bekleyen zorluk ned+r?
+[page: 4-4] [topic: team]
+---
+## HSS-Q025: 3. Aşamada yarışmacıları bekleyen zorluk ned+r
 "Ver+len Angajman +le Hedef+n İmhası" olan 3. Aşamada takımlar, görsel b+r +pucu +le b+r 
 angajman emr+ alırlar. S+stemler+n+n otonom olarak doğru platforma yönlenmes+, bel+rt+len 
 hedef+ araması, tesp+t etmes+ ve +mha etmes+ gerekmekted+r.
-[page: 4–4] [topic: team]
----
 
-## HSS-Q026: 1. Aşamada küçük b+r hedef+ +mha etmek kaç puan kazandırır?
-1. Aşamada küçük b+r hedef+ +mha etmek 15 puan kazandırırken, büyük b+r hedef+ +mha 
-etmek 5 puan değer+nded+r.
-[page: 4–4] [topic: stages]
+[page: 4-4] [topic: team]
 ---
-
-## HSS-Q027: 1. Aşamayı geçmek +ç+n gereken m+n+mum puan ned+r?
+## HSS-Q027: 1. Aşamayı geçmek +ç+n gereken m+n+mum puan ned+r
 Takımların b+r üst sev+yeye geçeb+lmes+ +ç+n 1. Aşamada en az 20 puan toplaması 
 beklenmekted+r.
-[page: 4–5] [topic: team]
----
 
-## HSS-Q028: 2. Aşamada dost b+r hedef+ vurmanın cezası ned+r?
-Tek b+r dost hedef+ vurmak -30 puanlık b+r ceza +le sonuçlanır. Eğer b+r takım +k+ veya daha 
-fazla dost hedef vurursa görev+ başarısız sayılır ve o aşamadan 0 puan alır.
-[page: 5–5] [topic: team]
+[page: 4-5] [topic: team]
 ---
-
-## HSS-Q029: 2. Aşamayı geçmek +ç+n gereken m+n+mum puan ned+r?
-Takımların 3. Aşamaya geçeb+lmes+ +ç+n 2. Aşamadan en az 30 puan toplaması 
-beklenmekted+r.
-[page: 5–5] [topic: team]
----
-
-## HSS-Q030: 3. Aşamada her başarılı hedef +mhası +ç+n kaç puan ver+l+r?
-3. Aşamada bel+rlenen her b+r hedef+n başarılı +mhası, takıma 20 puan kazandırır. Bu 
+## HSS-Q003: Aşamada bel+rlenen her b+r hedef+n başarılı +mhası, takıma 20 puan kazandırır. Bu
 aşamadak+ hedeﬂer sadece küçük hedeﬂer olacaktır.
-[page: 5–5] [topic: team]
----
 
-## HSS-Q031: 3. Aşamada yanlış b+r hedef+ vurmanın cezası ned+r?
-3. Aşamada yanlış b+r hedef+ vurmak -50 puanlık b+r ceza puanı +le sonuçlanır. Takımların +k+ 
+[page: 5-5] [topic: team]
+---
+## HSS-Q003: Aşamada yanlış b+r hedef+ vurmak -50 puanlık b+r ceza puanı +le sonuçlanır. Takımların +k+
 adet yanlış hedef vurma hakkı vardır; üçüncü b+r yanlış hedef+ vurmaları durumunda görev 
 başarısız sayılır ve o aşamadan 0 puan alırlar.
-[page: 5–5] [topic: team]
----
 
-## HSS-Q032: B+r takımın yarışmada elde edeb+leceğ+ toplam maks+mum puan kaçtır?
+[page: 5-5] [topic: team]
+---
+## HSS-Q028: 2. Aşamada dost b+r hedef+ vurmanın cezası ned+r
+Tek b+r dost hedef+ vurmak -30 puanlık b+r ceza +le sonuçlanır. Eğer b+r takım +k+ veya daha 
+fazla dost hedef vurursa görev+ başarısız sayılır ve o aşamadan 0 puan alır.
+
+[page: 5-5] [topic: team]
+---
+## HSS-Q029: 2. Aşamayı geçmek +ç+n gereken m+n+mum puan ned+r
+Takımların 3. Aşamaya geçeb+lmes+ +ç+n 2. Aşamadan en az 30 puan toplaması 
+beklenmekted+r.
+
+[page: 5-5] [topic: team]
+---
+## HSS-Q032: B+r takımın yarışmada elde edeb+leceğ+ toplam maks+mum puan kaçtır
 B+r takımın tüm puanlama kategor+ler+nde elde edeb+leceğ+ toplam maks+mum puan 
 500'dür[c+te: 345]. Bu puana raporlar, ebat puanlaması ve üç yarışma aşamasından alınan 
 puanlar dah+ld+r[c+te: 345].
-[page: 5–5] [topic: team]
----
 
-## HSS-Q033: B+r+nc+l+k ödülünü kazanan takıma ve danışmanına ne kadar para ödülü ver+l+r?
+[page: 5-5] [topic: team]
+---
+## HSS-Q033: B+r+nc+l+k ödülünü kazanan takıma ve danışmanına ne kadar para ödülü ver+l+r
 B+r+nc+ olan takıma toplam 250.000 TL para ödülü ver+lecek ve bu m+ktar takım üyeler+ 
 arasında eş+t olarak bölünecekt+r. Takımın danışmanı +se ayrıca 15.000 TL ödül alacaktır.
-[page: 5–5] [topic: team]
----
 
-## HSS-Q034: Ödül sıralamasına g+reb+lmek +ç+n m+n+mum başarı kr+ter+ ned+r?
+[page: 5-5] [topic: team]
+---
+## HSS-Q034: Ödül sıralamasına g+reb+lmek +ç+n m+n+mum başarı kr+ter+ ned+r
 Ödül sıralamasına g+reb+lmek +ç+n takımların 3. Aşamadan en az 10 puan almaları 
 gerekmekted+r.
-[page: 5–6] [topic: team]
----
 
-## HSS-Q035: "En Özgün Tasarım Ödülü"nün madd+ b+r karşılığı var mıdır?
+[page: 5-6] [topic: team]
+---
+## HSS-Q035: "En Özgün Tasarım Ödülü"nün madd+ b+r karşılığı var mıdır
 Hayır, "En Özgün Tasarım Ödülü" prest+j amaçlı olup madd+ b+r karşılığı bulunmamaktadır. 
 Bu ödül; +şlevsel, güven+l+r, yerl+ ve modern teknoloj+lerle uyumlu tasarıma sah+p takıma 
 ver+l+r.
-[page: 6–6] [topic: team]
----
 
-## HSS-Q036: "En İy+ Takım Ruhu Ödülü" ned+r?
+[page: 6-6] [topic: team]
+---
+## HSS-Q036: "En İy+ Takım Ruhu Ödülü" ned+r
 Bu ödül, yarışma alanındak+ enerj+ler+n+, planlamalarını ve görevler+n+ en +y+ şek+lde yansıtan 
 takımlara, elde ett+kler+ başarıya bakılmaksızın ver+l+r. Değerlend+rme; takım çalışması, 
 çaba, becer+ ve +let+ş+m g+b+ durumlara göre yapılır ve ödülün madd+ b+r karşılığı yoktur.
-[page: 6–6] [topic: team]
----
 
-## HSS-Q037: B+r yarışmacı b+rden fazla takımda üye olab+l+r m+?
+[page: 6-6] [topic: team]
+---
+## HSS-Q037: B+r yarışmacı b+rden fazla takımda üye olab+l+r m+
 Hayır, her katılımcı en fazla 1 takımda üye olarak bulunab+l+r.Elenen veya d+skal+f+ye olan b+r 
 takımın üyeler+ başka b+r takımda yer alamaz
-[page: 6–6] [topic: eligibility]
----
 
-## HSS-Q038: Takımlar ne zamana kadar üye ekleme/çıkarma +şlem+ yapab+l+r?
+[page: 6-6] [topic: eligibility]
+---
+## HSS-Q038: Takımlar ne zamana kadar üye ekleme/çıkarma +şlem+ yapab+l+r
 Takımlar, Kr+t+k Tasarım Raporu'nun tesl+m tar+h+ne kadar üye ekleme veya çıkarma +şlem+ 
 yapab+l+rler. Tüm bu +şlemler KYS s+stem+ üzer+nden yürütülmekted+r
-[page: 6–6] [topic: team]
----
 
-## HSS-Q039: Resm+ duyurular ve güncellemeler takımlara nasıl +let+l+r?
+[page: 6-6] [topic: team]
+---
+## HSS-Q039: Resm+ duyurular ve güncellemeler takımlara nasıl +let+l+r
 TEKNOFEST Yarışmalar Kom+tes+ tarafından yapılacak tüm b+lg+lend+rmeler, her takımın 
 bel+rled+ğ+ +let+ş+m sorumlusunun KYS s+stem+ne kayıtlı e-posta adres+ne yapılır. Süreçler+ 
 tak+p etmek bu k+ş+n+n sorumluluğundadır.
-[page: 6–6] [topic: team]
----
 
-## HSS-Q040: Yarışma alanında takımlara ne g+b+ destekler sağlanmaktadır?
+[page: 6-6] [topic: team]
+---
+## HSS-Q040: Yarışma alanında takımlara ne g+b+ destekler sağlanmaktadır
 Yarışma alanında, katılan her yarışmacı takıma kullanması +ç+n b+rer masanın bulunduğu 
 ayrı b+r alan tahs+s ed+l+r. Bu alanda ayrıca 220 VAC enerj+ tedar+k ed+lecekt+r.
-[page: 6–7] [topic: team]
----
 
-## HSS-Q041: B+r takım yarışma aşamaları sırasında kaç kez bakım molası alab+l+r?
+[page: 6-7] [topic: team]
+---
+## HSS-Q041: B+r takım yarışma aşamaları sırasında kaç kez bakım molası alab+l+r
 Takımlar her aşamada +k+şer defa bakım molası alab+l+rler. Üç aşama +ç+n kullanılacak 
 toplam bakım süres+ 10 dak+kadır.
-[page: 7–7] [topic: team]
----
 
-## HSS-Q042: Yarışma önces+ndek+ hakem br+f+ng+n+n rolü ned+r?
+[page: 7-7] [topic: team]
+---
+## HSS-Q042: Yarışma önces+ndek+ hakem br+f+ng+n+n rolü ned+r
 Yarışma başlamadan önce, genel hususların yarışmacılara aktarıldığı b+r hakem br+f+ng+ 
 yapılır[c+te: 195]. Bu sırada hakemler, takımların test ortamını yakından görmeler+n+ sağlar 
 ve takımların tekn+k raporlarını okumuş olurlar.
-[page: 7–7] [topic: team]
----
 
-## HSS-Q043: S+stem+n yan ve yüksel+ş eksenler+nde sah+p olması gereken hareket kab+l+yet+ ned+r?
+[page: 7-7] [topic: team]
+---
+## HSS-Q043: S+stem+n yan ve yüksel+ş eksenler+nde sah+p olması gereken hareket kab+l+yet+ ned+r
 S+stem+n, yan eksende (yatay) toplam 270 derece ve yüksel+ş eksen+nde (d+key) toplam 60 
 derece hareket kab+l+yet+ne sah+p olması gerekmekted+r[c+te: 160, 161]. Bu yetenekler 
 Görev Kab+l+yet Göster+m+ V+deosu'nda serg+lenmel+d+r.
-[page: 7–7] [topic: stages]
----
 
-## HSS-Q044: Tanıtım v+deosunda ops+yonel olarak test ed+len otonom yetenek ned+r?
+[page: 7-7] [topic: stages]
+---
+## HSS-Q044: Tanıtım v+deosunda ops+yonel olarak test ed+len otonom yetenek ned+r
 Ops+yonel b+r test olarak (Yetenek 11), s+stem+n otonom çalışma kab+l+yet+ 
 göster+leb+l+r[c+te: 174]. Bu testte s+stem, 3 kırmızı ve 3 mav+ balonun önüne konulur ve 
 otonom moda alındığında, +nsan müdahales+ olmaksızın sadece 3 kırmızı balonu +mha 
 etmes+ beklen+r[c+te: 175].
-[page: 7–7] [topic: other]
----
 
-## HSS-Q045: Organ+zasyon kom+tes+ ne tür soruları yanıtlamayacaktır?
+[page: 7-7] [topic: other]
+---
+## HSS-Q045: Organ+zasyon kom+tes+ ne tür soruları yanıtlamayacaktır
 Kom+te; stratej+k, takımların geleceğe yönel+k bel+rs+z planlarıyla +lg+l+ veya geçm+ştek+ kural 
 değ+ş+kl+kler+n+ sorgulayan soruları yanıtlamayacaktır[c+te: 111]. Ayrıca s+stem tasarımını 
 onaylatma amaçlı, bel+rs+z, referansı olmayan veya daha önce cevaplanmış sorular da 
 cevaplandırılmaz[c+te: 112, 113].
-[page: 7–7] [topic: team]
----
 
-## HSS-Q046: Takımların uygulaması gereken "atışa yasak alan" fonks+yonunun +şlev+ ned+r?
+[page: 7-7] [topic: team]
+---
+## HSS-Q046: Takımların uygulaması gereken "atışa yasak alan" fonks+yonunun +şlev+ ned+r
 Takımlar, s+stemler+nde b+r "atışa yasak alan" tanımlayab+ld+kler+n+ göstermel+d+r[c+te: 218]. 
 Kab+l+yet v+deosu +ç+n bu alan yan eksende -15 +le +15 derece arası olarak tanımlanır ve 
 s+stem+n bu aralık dışında ateş edeb+ld+ğ+, ancak ateş etme komutu ver+lse b+le bu aralık 
 +ç+nde ateş etmed+ğ+ göster+lmel+d+r[c+te: 172, 173].
-[page: 7–8] [topic: team]
----
 
-## HSS-Q047: S+stem+n hedef tak+p yeteneğ+ kab+l+yet v+deosunda nasıl test ed+lecekt+r?
+[page: 7-8] [topic: team]
+---
+## HSS-Q003: Aşamada angajman emr+, atışa yasak b+r alanda bulunan "Angajman İstek Tahtası"
+üzer+ndek+ b+r görsel +le ver+lecekt+r[c+te: 331, 341]. Bu görsel, hang+ hedef tahtasındak+ (A 
+veya B) hang+ hedef+n vurulması gerekt+ğ+n+ bel+rtecekt+r[c+te: 341]. Hedef balonlar +se farklı 
+şek+l ve renk unsurlarıyla ayırt ed+lecekt+r[c+te: 337].
+
+[page: 8-8] [topic: stages]
+---
+## HSS-Q047: S+stem+n hedef tak+p yeteneğ+ kab+l+yet v+deosunda nasıl test ed+lecekt+r
 S+stem, hareket eden b+r balonu hem f+z+ksel hareket+yle hem de kamera görüntüsünde 
 tak+p edeb+ld+ğ+n+ göstermel+d+r[c+te: 170]. V+deo, s+stem+n f+z+ksel olarak hedefe 
 yönlend+ğ+n+ ve kamera görüntüsünde hedef+n ortalandığını, aynı zamanda sahnedek+ d+ğer 
 balonları d+kkate almadığını göstermel+d+r[c+te: 171].
-[page: 8–8] [topic: other]
----
 
-## HSS-Q048: F+nal Değerlend+rme Sunumu'nun amacı ned+r?
+[page: 8-8] [topic: other]
+---
+## HSS-Q048: F+nal Değerlend+rme Sunumu'nun amacı ned+r
 F+nal etabından sonra takımlar, hakemlere detaylı b+r sunum veya rapor sunmalıdır[c+te: 
 190]. Bu sunum, başlangıçtak+ tasarım planlarını gerçek uygulamalarla karşılaştırmalı, 
 karşılaşılan sorunları ve bunlara bulunan çözüm yollarını +çermel+d+r[c+te: 192].
-[page: 8–8] [topic: team]
----
 
-## HSS-Q049: 3. Aşamada hedef tanımlama nasıl +şleyecekt+r?
-3. Aşamada angajman emr+, atışa yasak b+r alanda bulunan "Angajman İstek Tahtası" 
-üzer+ndek+ b+r görsel +le ver+lecekt+r[c+te: 331, 341]. Bu görsel, hang+ hedef tahtasındak+ (A 
-veya B) hang+ hedef+n vurulması gerekt+ğ+n+ bel+rtecekt+r[c+te: 341]. Hedef balonlar +se farklı 
-şek+l ve renk unsurlarıyla ayırt ed+lecekt+r[c+te: 337].
-[page: 8–8] [topic: stages]
+[page: 8-8] [topic: team]
 ---
-
-## HSS-Q050: Test ortamından kaynaklı b+r aksaklık durumunda ne olur?
+## HSS-Q050: Test ortamından kaynaklı b+r aksaklık durumunda ne olur
 Eğer b+r test, test ortamından kaynaklanan b+r sorun neden+yle aksarsa, test+n 
 sonlandırılmasına ya da baştan başlatılmasına +lg+l+ yarışmacı takımın l+der+ karar 
 verecekt+r. 
@@ -345,8 +341,11 @@ Aşama-3 (Verilen Angajman ile İmha) ise en karmaşık otonomi seviyesini gerek
 komutundan sonra doğru hedef tahtasına otonom olarak yönlenmeli, doğru hedeﬁ bulmalı 
 ve imha etmelidir4. İmha sonrası manuel moda geçilip yeni angajman emri alınması, insan 
 denetimindeki stratejik karar anlarını korurken, görev icrasının büyük ölçüde otonom 
-olmasını gerektiren karma bir yapı sunar5. 
-3. Hava Savunma Sistemleri Yarışması'nda yer alan "Bonus Süre Puanı" (BSP) 
+olmasını gerektiren karma bir yapı sunar5.
+
+[page: 8-9] [topic: team]
+---
+## HSS-Q003: Hava Savunma Sistemleri Yarışması'nda yer alan "Bonus Süre Puanı" (BSP)
 mekanizmasının amacı nedir ve hangi koşullarda takımlara avantaj sağlamaktadır? Bu 
 puanın toplam sıralamaya etkisini analiz ediniz. 
 "Bonus Süre Puanı" (BSP), Hava Savunma Sistemleri yarışmasının her üç görev aşamasında 
@@ -549,5 +548,6 @@ anlamlı kılar.
 şekilde kullanmaması durumunda karşılaşabileceği somut riskler nelerdir? 
 Her iki yarışmada da KYS (Kurumsal Yönetim Sistemi), yarışma sürecinin merkezi sinir 
 sistemi olarak konumlandırılmıştır. Sistemin rolü, başvuruların alınmasından rapor/sunum
-[page: 8–14] [topic: eligibility]
+
+[page: 9-14] [topic: eligibility]
 ---

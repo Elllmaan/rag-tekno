@@ -1,5 +1,10 @@
-competition,qa_id,label,date_raw,date_iso,page_start
-HSS,HSS-Q005,timeline,1 Mart 2025,2025-03-01,1
-HSS,HSS-Q006,general,17 Mart 2025,2025-03-17,1
-HSS,HSS-Q008,general,19 Mayıs 2025,2025-05-19,2
-HSS,HSS-Q009,general,15 Ağustos 2025,2025-08-15,2
+qa_id,competition,topic,raw_date,iso,page_start,page_end
+ADRES-QG005,ADRES,team,6 Ağustos 2025,2025-08-06,20,20
+ADRES-QG018,ADRES,team,6 Ağustos 2025,2025-08-06,22,22
+ADRES-QG018,ADRES,team,23 Ağustos 2025,2025-08-23,22,22
+ADRES-QG018,ADRES,team,25 Ağustos 2025,2025-08-25,22,22
+ADRES-QG018,ADRES,team,7 Eylül 2025,2025-09-07,22,22
+HSS-Q005,HSS,timeline,1 Mart 2025,2025-03-01,1,1
+HSS-Q006,HSS,other,17 Mart 2025,2025-03-17,1,1
+HSS-Q008,HSS,team,19 Mayıs 2025,2025-05-19,2,2
+HSS-Q009,HSS,team,15 Ağustos 2025,2025-08-15,2,2
